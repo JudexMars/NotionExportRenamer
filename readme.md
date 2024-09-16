@@ -16,10 +16,10 @@ This Python script renames files and folders within a specified directory by rem
 
 **Clone the Repository**:
 
-    ```bash
-    git clone https://github.com/JudexMars/NotionExportRenamer.git
-    cd NotionExportRenamer
-    ```
+```bash
+git clone https://github.com/JudexMars/NotionExportRenamer.git
+cd NotionExportRenamer
+```
 
 ## Usage
 
