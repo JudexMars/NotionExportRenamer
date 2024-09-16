@@ -28,7 +28,7 @@ cd NotionExportRenamer
 2. **Run the Script**:
 
     ```bash
-    python main.py /path/to/your/directory
+    python NotionExportRenamer.py /path/to/your/directory
     ```
 
     Replace `/path/to/your/directory` with the path to the directory you want to process.
@@ -36,7 +36,7 @@ cd NotionExportRenamer
 3. **Example**:
 
     ```bash
-    python main.py /Users/yourusername/Documents
+    python NotionExportRenamer.py /Users/yourusername/Documents
     ```
 
     This command will process all files and folders in the `Documents` directory and its subdirectories, removing any trailing IDs from their names.
